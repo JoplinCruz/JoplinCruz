@@ -1,12 +1,12 @@
-## OLá, essa é a minha casa... Seja Bem-Vindo(a)!
-### Pode entrar, afinal de contas a casa é sua também, fique à vontade. 😁
+## OLá, seja Bem-Vindo(a), essa é a minha casa!
+### Pode entrar, fique a vontade, afinal essa casa é sua também. 😁
 
 ---
 
 <div>
   <a href="https://github.com/JoplinCruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoplinCruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoplkinCruz&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoplinCruz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
